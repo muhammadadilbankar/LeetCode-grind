@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0494-target-sum) |
 | [1881-closest-subsequence-sum](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1881-closest-subsequence-sum) |
 | [2249-count-the-hidden-sequences](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2249-count-the-hidden-sequences) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1500-count-largest-group](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1500-count-largest-group) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1881-closest-subsequence-sum](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1881-closest-subsequence-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2856-count-complete-subarrays-in-an-array) |
 <!---LeetCode Topics End-->
