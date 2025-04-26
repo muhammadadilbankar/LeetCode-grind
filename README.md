@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0217-contains-duplicate) |
 | [0494-target-sum](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0494-target-sum) |
 | [1881-closest-subsequence-sum](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1881-closest-subsequence-sum) |
 | [2249-count-the-hidden-sequences](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2249-count-the-hidden-sequences) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0217-contains-duplicate) |
 | [1500-count-largest-group](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1500-count-largest-group) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Math
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0217-contains-duplicate) |
 | [1881-closest-subsequence-sum](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1881-closest-subsequence-sum) |
 ## Bitmask
 |  |
