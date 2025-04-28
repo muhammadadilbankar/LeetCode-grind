@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0494-target-sum) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0347-top-k-frequent-elements) |
 | [1500-count-largest-group](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1500-count-largest-group) |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0036-valid-sudoku) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
