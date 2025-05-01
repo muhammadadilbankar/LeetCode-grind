@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0494-target-sum) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1881-closest-subsequence-sum](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1881-closest-subsequence-sum) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0347-top-k-frequent-elements) |
 | [1881-closest-subsequence-sum](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1881-closest-subsequence-sum) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Bitmask
 |  |
 | ------- |
@@ -103,5 +105,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Greedy
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
