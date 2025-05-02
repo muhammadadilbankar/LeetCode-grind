@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0494-target-sum) |
+| [0868-push-dominoes](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0868-push-dominoes) |
 | [1881-closest-subsequence-sum](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1881-closest-subsequence-sum) |
 ## Backtracking
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0868-push-dominoes) |
 | [1881-closest-subsequence-sum](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1881-closest-subsequence-sum) |
 ## Bit Manipulation
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0049-group-anagrams) |
+| [0868-push-dominoes](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0868-push-dominoes) |
 ## Divide and Conquer
 |  |
 | ------- |
