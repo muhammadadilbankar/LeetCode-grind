@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0494-target-sum) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1881-closest-subsequence-sum](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1881-closest-subsequence-sum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0011-container-with-most-water) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Queue
 |  |
