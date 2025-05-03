@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0049-group-anagrams) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0868-push-dominoes](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0868-push-dominoes) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0011-container-with-most-water) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Queue
 |  |
