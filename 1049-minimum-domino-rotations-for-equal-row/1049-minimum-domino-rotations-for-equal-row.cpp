@@ -7,9 +7,6 @@ public:
         for(int i=0; i<tops.size(); i++){
             if(tops[i] != val && bottoms[i] != val) return -1;
             else if(tops[i] != val) tswap++;
-        }
-        for(int i=0; i<bottoms.size(); i++){
-            if(tops[i] != val && bottoms[i] != val) return -1;
             else if(bottoms[i] != val) bswap++;
         }
         return min(tswap, bswap);
