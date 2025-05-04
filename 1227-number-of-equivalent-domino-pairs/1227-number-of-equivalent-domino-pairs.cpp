@@ -8,8 +8,7 @@ public:
             int a = dominoes[i][0];
             int b = dominoes[i][1];
             string key = to_string(min(a, b)) + to_string(max(a, b));
-            count += freq[key];
-            freq[key]++;
+            count += freq[key]++;
         }
         return count;
     }
