@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1881-closest-subsequence-sum](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1881-closest-subsequence-sum) |
+| [2048-build-array-from-permutation](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
