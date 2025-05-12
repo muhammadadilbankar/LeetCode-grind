@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0053-maximum-subarray) |
 | [0494-target-sum](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0494-target-sum) |
 | [0868-push-dominoes](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0868-push-dominoes) |
 | [1881-closest-subsequence-sum](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1881-closest-subsequence-sum) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
