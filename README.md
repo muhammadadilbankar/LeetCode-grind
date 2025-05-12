@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0494-target-sum) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0347-top-k-frequent-elements) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0347-top-k-frequent-elements) |
 | [1881-closest-subsequence-sum](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1881-closest-subsequence-sum) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0347-top-k-frequent-elements) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Quickselect
