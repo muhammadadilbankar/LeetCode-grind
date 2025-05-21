@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0494-target-sum) |
+| [0878-shifting-letters](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0878-shifting-letters) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1293-three-consecutive-odds) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0878-shifting-letters](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0878-shifting-letters) |
 | [2249-count-the-hidden-sequences](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2465-shifting-letters-ii) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0049-group-anagrams) |
 | [0868-push-dominoes](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0868-push-dominoes) |
+| [0878-shifting-letters](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0878-shifting-letters) |
 | [2465-shifting-letters-ii](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2465-shifting-letters-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
