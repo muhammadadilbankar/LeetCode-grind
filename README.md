@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0168-excel-sheet-column-title) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1500-count-largest-group) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0049-group-anagrams) |
+| [0168-excel-sheet-column-title](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0168-excel-sheet-column-title) |
 | [0868-push-dominoes](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0868-push-dominoes) |
 | [0878-shifting-letters](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0878-shifting-letters) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
