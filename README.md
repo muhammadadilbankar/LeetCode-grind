@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0494-target-sum](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0494-target-sum) |
+| [0806-domino-and-tromino-tiling](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0868-push-dominoes) |
 | [1881-closest-subsequence-sum](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1881-closest-subsequence-sum) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1986-largest-color-value-in-a-directed-graph) |
