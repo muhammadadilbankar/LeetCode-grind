@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0073-set-matrix-zeroes) |
@@ -143,11 +144,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0049-group-anagrams) |
 | [0168-excel-sheet-column-title](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0168-excel-sheet-column-title) |
 | [0868-push-dominoes](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0868-push-dominoes) |
