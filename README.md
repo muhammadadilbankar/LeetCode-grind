@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1881-closest-subsequence-sum](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1881-closest-subsequence-sum) |
 | [2048-build-array-from-permutation](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0878-shifting-letters](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0878-shifting-letters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2249-count-the-hidden-sequences](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2465-shifting-letters-ii) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## String
