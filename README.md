@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0217-contains-duplicate) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0135-candy) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
