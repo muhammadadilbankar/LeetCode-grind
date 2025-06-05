@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0168-excel-sheet-column-title) |
 | [0868-push-dominoes](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0868-push-dominoes) |
 | [0878-shifting-letters](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0878-shifting-letters) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2465-shifting-letters-ii](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/2465-shifting-letters-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/0128-longest-consecutive-sequence) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/muhammadadilbankar/LeetCode-grind/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Binary Search
 |  |
 | ------- |
